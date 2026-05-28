@@ -1,21 +1,30 @@
-# Apache Jena MovieLens
+# Apache Jena Movielens
 
-Semantic web project that applies Apache Jena over the MovieLens dataset.
+[![License](https://img.shields.io/github/license/pauloprsdesouza/apache-jena-movielens)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/pauloprsdesouza/apache-jena-movielens)](https://github.com/pauloprsdesouza/apache-jena-movielens/commits)
+[![Top Language](https://img.shields.io/github/languages/top/pauloprsdesouza/apache-jena-movielens)](https://github.com/pauloprsdesouza/apache-jena-movielens)
 
-## What this repository contains
-- Ontology and semantic modeling experiments
-- Java/Jena code for working with RDF/OWL data
-- Dataset-driven examples focused on recommendation scenarios
+## Overview
+Semantic web project using Apache Jena with the MovieLens dataset.
 
-## Tech stack
+## Tech Stack
 - Java
-- Apache Jena
-- Semantic Web (RDF/OWL)
+- Java / Maven
 
-## Getting started
-1. Import the project into your Java IDE.
-2. Configure Jena dependencies.
-3. Run the example workflows against the MovieLens-based data assets.
+## Repository Structure
+- `src/` - main source code
 
-## Notes
-This repository is research-oriented and intended for experimentation and learning.
+## Quick Start
+1. Install Java and Maven.
+2. Build the project with Maven.
+3. Run the application locally.
+
+## Validation
+- Run local build and tests where available.
+- Validate main workflows/endpoints before opening pull requests.
+
+## Contributing
+See `CONTRIBUTING.md` for contribution and PR guidelines.
+
+## Status
+Actively maintained by Paulo Roberto de Souza.
